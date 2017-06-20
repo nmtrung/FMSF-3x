@@ -1,1 +1,10 @@
+[Adblock Plus 2.0]
+! Homepage: http://nmtrung.com/fmsf-2
+! Title: FMSF 3x
+! Expires: 1 days
+! Version: 1.0
+! Last modified: 20/6/2017
 
+! ====================== Third-party adverts =====================
+||tuoi69.com/trai.js
+||tuoi69.com/banner/*
