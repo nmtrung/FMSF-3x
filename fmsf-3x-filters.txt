@@ -3,8 +3,20 @@
 ! Title: FMSF 3x
 ! Expires: 1 days
 ! Version: 1.0
-! Last modified: 20/6/2017
+! Last modified: 3/7/2017
 
+! ====================== Element Hiding Per Site =================
+imagetwist.com###rang2
+javlibrary.com###adultwarningmask
+! ====================== General adverts =========================
+/adblock_detector2.js?*
+/b7ng.js
 ! ====================== Third-party adverts =====================
-||tuoi69.com/trai.js
+||adnium.com^$third-party
+||chaturbate.com^$subdocument
+||imgbabes.com^$subdocument
+||imgspice.com/bld.php
+||livejasmin.com^$popup
 ||tuoi69.com/banner/*
+||tuoi69.com/trai.js
+||y72yuyr9.com^$popup
