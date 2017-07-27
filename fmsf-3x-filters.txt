@@ -3,12 +3,14 @@
 ! Title: FMSF 3x
 ! Expires: 1 days
 ! Version: 1.0
-! Last modified: 27/7/2017
+! Last modified: 27/7/2017 11:32 PM
 
 ! ===================== Element Hiding Per Site ===============
 hbo.hboav.com###inplayer
 imagetwist.com###rang2
 javlibrary.com###adultwarningmask
+mega3x.net##.video_ad
+mega3x.net##.video_ad_fadein
 ! ===================== General adverts =======================
 /adblock_detector2.js?*
 /b7ng.js
@@ -24,9 +26,11 @@ javlibrary.com###adultwarningmask
 ||livejasmin.com^$popup
 ||tuoi69.com/banner/*
 ||tuoi69.com/trai.js
+||xxlargepop.com^$third-party
 ||y72yuyr9.com^$popup
 ||yourporn.sexy^$inline-script
 ! ======================== Scripts ============================
 cat3movie.us##script:inject(abort-on-property-read.js, spot_code)
+embedlink.info##script:inject(abort-on-property-read.js, spot_code)
 hotpornfile.org##script:inject(popads.net.js)
 jpidols.tv##script:inject(bab-defuser.js)
