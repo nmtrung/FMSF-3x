@@ -3,9 +3,10 @@
 ! Title: FMSF 3x
 ! Expires: 1 days
 ! Version: 1.0
-! Last modified: 27/7/2017 11:32 PM
+! Last modified: 28/7/2017
 
 ! ===================== Element Hiding Per Site ===============
+hangmup.com###text-3
 hbo.hboav.com###inplayer
 imagetwist.com###rang2
 javlibrary.com###adultwarningmask
@@ -14,23 +15,28 @@ mega3x.net##.video_ad_fadein
 ! ===================== General adverts =======================
 /adblock_detector2.js?*
 /b7ng.js
-! ===================== Third-party adverts ===================
-||5278.cc^$subdocument
-||88p2p.com^$popup
-||ad.5278.cc^
-||adnium.com^$third-party
-||chaturbate.com^$subdocument
-||hotpornfile.org/wp-content/themes/hpf-theme/ex/*
-||imgbabes.com^$subdocument
-||imgspice.com/bld.php
-||livejasmin.com^$popup
-||tuoi69.com/banner/*
-||tuoi69.com/trai.js
-||xxlargepop.com^$third-party
-||y72yuyr9.com^$popup
-||yourporn.sexy^$inline-script
 ! ======================== Scripts ============================
 cat3movie.us##script:inject(abort-on-property-read.js, spot_code)
 embedlink.info##script:inject(abort-on-property-read.js, spot_code)
 hotpornfile.org##script:inject(popads.net.js)
 jpidols.tv##script:inject(bab-defuser.js)
+! ===================== Third-party adverts ===================
+||5278.cc^$subdocument
+||88p2p.com^$popup
+||ad.5278.cc^
+||adnium.com^$third-party
+||adxxx.org^$third-party
+||afvcugqaulh.co^$third-party
+||chaturbate.com^$subdocument
+||hotpornfile.org/wp-content/themes/hpf-theme/ex/*
+||imgbabes.com^$subdocument
+||imgspice.com/bld.php
+||jav21.net/mads/*
+||livejasmin.com^$popup
+||popunderjs.club^$third-party
+||tuoi69.com/banner/*
+||tuoi69.com/trai.js
+||xxlargepop.com^$third-party
+||xxxvietsub.com/wp-content/uploads/*.gif|
+||y72yuyr9.com^$popup
+||yourporn.sexy^$inline-script
