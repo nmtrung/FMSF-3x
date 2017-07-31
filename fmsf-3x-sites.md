@@ -1,3 +1,5 @@
+http://3xplanet.com/
+
 http://cat3movie.us/
 
 http://gaudam.tv/
@@ -6,7 +8,13 @@ http://hangmup.com/
 
 http://jav21.net/
 
+http://javarchive.com/
+
 http://javhdx.com/
+
+http://javip.net/
+
+http://javpink.com/
 
 http://jphimsex.net/
 
@@ -25,6 +33,8 @@ http://www.javlibrary.com/
 http://xxhay.com/
 
 http://xxxvietsub.com/
+
+https://0xxx.ws
 
 https://webtoon.bamtoki.com/
 
