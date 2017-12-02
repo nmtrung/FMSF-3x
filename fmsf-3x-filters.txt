@@ -3,7 +3,7 @@
 ! Title: FMSF 3x
 ! Expires: 1 days
 ! Version: 1.0
-! Last modified: 1/8/2017 12:37 AM
+! Last modified: 2/12/2017
 
 ! ===================== Element Hiding Per Site ===============
 hangmup.com###text-3
@@ -15,6 +15,9 @@ mega3x.net##.video_ad_fadein
 ! ===================== General adverts =======================
 /adblock_detector2.js?*
 /b7ng.js
+! ===================== Whitelists ============================
+@@||vidoza.net/js/ads.js
+@@||vidoza.net/js/pop.js
 ! ======================== Scripts ============================
 cat3movie.us##script:inject(abort-on-property-read.js, spot_code)
 embedlink.info##script:inject(abort-on-property-read.js, spot_code)
@@ -40,6 +43,7 @@ jpidols.tv##script:inject(bab-defuser.js)
 ||tuoi69.com/banner/*
 ||tuoi69.com/trai.js
 ||uploadgig.com^$image,third-party
+||vidoza.net/js/sop/*
 ||xxlargepop.com^$third-party
 ||xxxvietsub.com/wp-content/uploads/*.gif|
 ||y72yuyr9.com^$popup
