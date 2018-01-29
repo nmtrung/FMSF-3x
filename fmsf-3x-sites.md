@@ -10,6 +10,8 @@ http://jav21.net/
 
 http://javarchive.com/
 
+http://javfree.club/av/
+
 http://javhdx.com/
 
 http://javip.net/
@@ -35,6 +37,8 @@ http://xxhay.com/
 http://xxxvietsub.com/
 
 https://0xxx.ws
+
+https://avgle.com/
 
 https://webtoon.bamtoki.com/
 
