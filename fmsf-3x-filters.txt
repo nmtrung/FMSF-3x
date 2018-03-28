@@ -3,7 +3,7 @@
 ! Title: FMSF 3x
 ! Expires: 1 days
 ! Version: 1.0
-! Last modified: 29/1/2018
+! Last modified: 28/3/2018
 
 ! ===================== Element Hiding Per Site ===============
 avgle.com###player_3x2_close
@@ -20,6 +20,7 @@ mega3x.net##.video_ad_fadein
 ! ===================== Whitelists ============================
 @@.gif$image,domain=avgle.com
 @@||exosrv.com^$script,subdocument,domain=avgle.com
+@@||phncdn.com^$script,domain=www.pornhub.com
 @@||vidoza.net/js/ads.js
 @@||vidoza.net/js/pop.js
 ! ======================== Scripts ============================
