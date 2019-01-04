@@ -3,7 +3,7 @@
 ! Title: FMSF 3x
 ! Expires: 1 days
 ! Version: 1.0
-! Last modified: 10/6/2018
+! Last modified: 4/1/2019
 
 ! ===================== Element Hiding Per Site ===============
 hangmup.com###text-3
@@ -28,6 +28,7 @@ embedlink.info##script:inject(abort-on-property-read.js, spot_code)
 hotpornfile.org##script:inject(popads.net.js)
 jpidols.tv##script:inject(bab-defuser.js)
 tuoi69.com##script:inject(window.open-defuser.js)
+xnxx.com##+js(abort-on-property-write.js, openpop)
 ! ===================== Third-party adverts ===================
 ||3xplanet.com/images/teamplate/erosekai.jpg
 ||5278.cc^$subdocument
