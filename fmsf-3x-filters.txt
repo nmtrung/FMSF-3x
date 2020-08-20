@@ -3,7 +3,7 @@
 ! Title: FMSF 3x
 ! Expires: 1 days
 ! Version: 1.0
-! Last modified: 4/1/2019
+! Last modified: 21/8/2020
 
 ! ===================== Element Hiding Per Site ===============
 hangmup.com###text-3
@@ -38,10 +38,13 @@ xnxx.com##+js(abort-on-property-write.js, openpop)
 ||adxxx.org^$third-party
 ||afvcugqaulh.co^$third-party
 ||chaturbate.com^$subdocument
+||hentaiz.net/images/aiko.jpg
+||hentaiz.net/images/sponsor/*
 ||hotpornfile.org/wp-content/themes/hpf-theme/ex/*
 ||imgbabes.com^$subdocument
 ||imgspice.com/bld.php
 ||jav21.net/mads/*
+||jwpcdn.com/player/*/vast.js$third-party,domain=hentaiz.net
 ||livejasmin.com^$popup
 ||nitroflare.com^$image,third-party
 ||popunderjs.club^$third-party
